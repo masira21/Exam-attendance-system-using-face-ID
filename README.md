@@ -6,3 +6,4 @@ The second dashboard is the attendance marking dashboard which is used to mark t
 The Third dashboard is for the admin ie:The teachers. The admin is allowed to add,delete or remove exams based on the date,year and course.
 There is a SQl database as well which comprises of mainly three collections mainly: Student, Attendance, and Examination.
 The first collection is the registeration of the student details, the second collection is the attendance marking collection which will be marked only if the face id matches from the student collection, the third collection examination which is the admin collection which comprises of the exam name,date,course,year and time of the exam.
+Languages used: Python(including various libraries for face recognition those are mainly OpenCV, dlib, face_recognition), HTML, CSS, JavaScript.
